@@ -12,30 +12,30 @@
 
 | Skill 名 | 归属 | GitHub 地址 |
 | --- | --- | --- |
-| `nature-reader` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reader](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reader) |
-| `nature-writing` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-writing](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-writing) |
-| `nature-polishing` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-polishing](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-polishing) |
-| `nature-figure` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-figure](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-figure) |
+| `nature-reader` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) |
+| `nature-writing` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) |
+| `nature-polishing` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) |
+| `nature-figure` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) |
 | `markdown-research-report` | 个人（Cai-ZiCan） | [https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/markdown-research-report](https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/markdown-research-report) |
 | `scientific-code-documentation` | 个人（Cai-ZiCan） | [https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/scientific-code-documentation](https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/scientific-code-documentation) |
 | `zotero:Zotero` | 第三方开源（OpenAI） | [https://github.com/openai/plugins/tree/main/plugins/zotero](https://github.com/openai/plugins/tree/main/plugins/zotero) |
 | `AGENTS.md` | 个人（Cai-ZiCan）；全局规范 | [https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS.md](https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS.md) |
 | `AGENTS-project.md` | 个人（Cai-ZiCan）；项目设计与实现规范 | [https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS-project.md](https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS-project.md) |
-| `nature-shared` | 第三方开源（Yuan1z0825）；共享依赖 | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-shared](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-shared) |
+| `nature-shared` | 第三方开源（Yuan1z0825）；共享依赖 | [https://github.com/Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) |
 
 `AGENTS.md` 和 `AGENTS-project.md` 是工作规则文件；`nature-shared` 是 Nature 系列的共享依赖。
 
 ## 文字版清单
 
 ```text
-nature-reader：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reader
-nature-writing：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-writing
-nature-polishing：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-polishing
-nature-figure：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-figure
+nature-reader：https://github.com/Yuan1z0825/nature-skills
+nature-writing：https://github.com/Yuan1z0825/nature-skills
+nature-polishing：https://github.com/Yuan1z0825/nature-skills
+nature-figure：https://github.com/Yuan1z0825/nature-skills
 markdown-research-report：https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/markdown-research-report
 scientific-code-documentation：https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/scientific-code-documentation
 zotero:Zotero：https://github.com/openai/plugins/tree/main/plugins/zotero
 AGENTS.md：https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS.md
 AGENTS-project.md：https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS-project.md
-nature-shared：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-shared
+nature-shared：https://github.com/Yuan1z0825/nature-skills
 ```
