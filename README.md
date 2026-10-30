@@ -1,34 +1,41 @@
 # 个人工作常用skill
 
-本仓库收录个人文献研究报告、科研代码文档技能，以及全局与项目级工作规范。
+个人常用的科研 Skill 与工作规范。表格按归属区分个人内容和第三方开源项目。
 
-## 一键下载
+## 一键下载个人技能库
 
-[⬇️ 一键下载完整技能库（ZIP）](https://github.com/Cai-ZiCan/codex-skills/archive/refs/heads/main.zip)
+[⬇️ 一键下载个人技能库（ZIP）](https://github.com/Cai-ZiCan/codex-skills/archive/refs/heads/main.zip)
 
-下载包包含下方清单中的两个技能、两份工作规范及配套说明。
+下载包包含个人的两个技能、两份工作规范及配套资料。第三方开源 Skill 请通过表格中的原项目地址获取。
 
-## 技能与规范清单
+## Skill 清单
 
-| 内容 | 入口 | 用途 |
+| Skill 名 | 归属 | GitHub 地址 |
 | --- | --- | --- |
-| markdown-research-report | [SKILL.md](skills/markdown-research-report/SKILL.md) | 文献综述、研究现状与空白分析、编号引用和来源链接 |
-| scientific-code-documentation | [SKILL.md](skills/scientific-code-documentation/SKILL.md) | 科研代码分层 README、模块边界、公式与代码对应说明 |
-| AGENTS.md | [全局默认规范](rules/AGENTS.md) | 任务范围、适度验证、目录治理、算法与模型文档、数据与输出规范 |
-| AGENTS-project.md | [项目设计与实现规范](rules/AGENTS-project.md) | 研究设计与证据边界、实现与复用、README 层级、算法与数据文档、执行边界 |
+| `nature-reader` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reader](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reader) |
+| `nature-writing` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-writing](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-writing) |
+| `nature-polishing` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-polishing](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-polishing) |
+| `nature-figure` | 第三方开源（Yuan1z0825） | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-figure](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-figure) |
+| `markdown-research-report` | 个人（Cai-ZiCan） | [https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/markdown-research-report](https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/markdown-research-report) |
+| `scientific-code-documentation` | 个人（Cai-ZiCan） | [https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/scientific-code-documentation](https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/scientific-code-documentation) |
+| `zotero:Zotero` | 第三方开源（OpenAI） | [https://github.com/openai/plugins/tree/main/plugins/zotero](https://github.com/openai/plugins/tree/main/plugins/zotero) |
+| `AGENTS.md` | 个人（Cai-ZiCan）；全局规范 | [https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS.md](https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS.md) |
+| `AGENTS-project.md` | 个人（Cai-ZiCan）；项目设计与实现规范 | [https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS-project.md](https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS-project.md) |
+| `nature-shared` | 第三方开源（Yuan1z0825）；共享依赖 | [https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-shared](https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-shared) |
 
-## 使用
+`AGENTS.md` 和 `AGENTS-project.md` 是工作规则文件；`nature-shared` 是 Nature 系列的共享依赖。
 
-将所需的 `skills/markdown-research-report` 或 `skills/scientific-code-documentation` 完整目录复制到 Codex 的技能目录。
+## 文字版清单
 
-`rules/AGENTS.md` 是全局默认规则的参考。`rules/AGENTS-project.md` 用于规范软件和科研项目的设计与实现，可按项目情况采用为项目级 `AGENTS.md`；其中覆盖研究问题、目标量、方法来源与复现范围、证据边界、实现复用、适度验证、文档导航及数据与输出管理。
-
-## 相关公开仓库
-
-| 项目 | 原仓库 |
-| --- | --- |
-| Nature Skills：论文精读、写作、润色、科研绘图及共享参考 | [https://github.com/Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) |
-| Markdown 文献研究报告 | [https://github.com/Cai-ZiCan/markdown-research-report](https://github.com/Cai-ZiCan/markdown-research-report) |
-| Zotero 插件：文献库与引用工作流 | [https://github.com/openai/plugins/tree/main/plugins/zotero](https://github.com/openai/plugins/tree/main/plugins/zotero) |
-
-各公开项目的源码、许可、维护与更新以其原仓库为准。
+```text
+nature-reader：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-reader
+nature-writing：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-writing
+nature-polishing：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-polishing
+nature-figure：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-figure
+markdown-research-report：https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/markdown-research-report
+scientific-code-documentation：https://github.com/Cai-ZiCan/codex-skills/tree/main/skills/scientific-code-documentation
+zotero:Zotero：https://github.com/openai/plugins/tree/main/plugins/zotero
+AGENTS.md：https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS.md
+AGENTS-project.md：https://github.com/Cai-ZiCan/codex-skills/blob/main/rules/AGENTS-project.md
+nature-shared：https://github.com/Yuan1z0825/nature-skills/tree/main/skills/nature-shared
+```
