@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown Research Report"
+  short_description: "Create cited Markdown research reports from mixed source documents"
+  default_prompt: "Use $markdown-research-report to read the supplied source documents and create a Markdown research summary with numbered citations and portable relative source links."
