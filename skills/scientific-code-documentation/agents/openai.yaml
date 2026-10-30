@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Code Documentation"
+  short_description: "Explain equations, code mappings, and scientific assumptions"
+  default_prompt: "Use $scientific-code-documentation to document the methods, equations, code mappings, and conditions of this scientific module."
